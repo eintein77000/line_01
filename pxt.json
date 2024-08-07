@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "maqueen": "github:dfrobot/pxt-maqueen#v1.3.6",
-        "microphone": "*"
+        "microphone": "*",
+        "maqueenPlusV2": "github:dfrobot/pxt-dfrobot_maqueenplus_v20#v2.2.0"
     },
     "files": [
         "main.blocks",
@@ -27,5 +28,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "blocksprj"
 }
